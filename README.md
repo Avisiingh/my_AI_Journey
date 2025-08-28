@@ -12,7 +12,11 @@ Welcome! This repo is my open notebook where I document everything I’m learnin
 🧠 Reflections → Personal thoughts & learnings
 
 📂 Repo Structure
-
+- [01_Python](01_Python/)
+  - [1. Python basic](1-Python/) 
+  - [2. Control flow](2-ControlFlow/) 
+  - [3. Data structure](3-DataStructure/) 
+  - [Python practice](Python_practice/)
 
 
 
