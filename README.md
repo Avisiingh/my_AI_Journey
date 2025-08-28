@@ -14,6 +14,8 @@ Welcome! This repo is my open notebook where I document everything I’m learnin
 📂 Repo Structure
 
 
+
+
 👨‍💻 About Me
 
 Hi, I’m Avinash Kumar, a mathematics undergraduate and Data Science learner.
@@ -25,6 +27,7 @@ I’m passionate about Machine Learning and AI, and I use this repo to track my 
 - Build strong ML/DL foundations
 
 🌐 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/avinash40/
-- X (formerly Twitter): https://x.com/_Avinashk
-- Kaggle: https://www.kaggle.com/avinashai
+- [LinkedIn](https://www.linkedin.com/in/avinash40/)
+- [X (Twitter)](https://x.com/_Avinashk)
+- [Kaggle](https://www.kaggle.com/avinashai)
+
