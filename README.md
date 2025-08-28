@@ -12,11 +12,13 @@ Welcome! This repo is my open notebook where I document everything I’m learnin
 🧠 Reflections → Personal thoughts & learnings
 
 📂 Repo Structure
-- [01_Python](01_Python/)
-  - [1. Python basic](1-Python/) 
-  - [2. Control flow](2-ControlFlow/) 
-  - [3. Data structure](3-DataStructure/) 
-  - [Python practice](Python_practice/)
+## Python Section
+- [1-Python](01_Python/1-Python/) 
+  - [1. Python basic](01_Python/1.Python basic/) – Notes and examples
+  - [2. Control flow](01_Python/2.Control flow/) – Loops, if-else, etc.
+  - [3. Data structure](01_Python/3.Data structure/) – Lists, tuples, dicts
+  - [Python practice](01_Python/python practice/) – Practice exercises
+
 
 
 
