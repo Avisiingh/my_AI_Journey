@@ -12,6 +12,14 @@ Welcome! This repo is my open notebook where I document everything I’m learnin
 🧠 Reflections → Personal thoughts & learnings
 
 📂 Repo Structure
+## Python Section
+- ## Python Section
+- [1-Python](https://github.com/Avisiingh/my_AI_Journey/tree/main/1-Python)
+   - [1. Python basic](https://github.com/Avisiingh/my_AI_Journey/tree/main/1-Python/1.Python%20basic)
+   - [2. Control flow](https://github.com/Avisiingh/my_AI_Journey/tree/main/1-Python/2.Control%20flow)
+   - [3. Data structure](https://github.com/Avisiingh/my_AI_Journey/tree/main/1-Python/3.Data%20structure)
+   - [Python practice](https://github.com/Avisiingh/my_AI_Journey/tree/main/1-Python/python%20practice)
+
 
 
 
