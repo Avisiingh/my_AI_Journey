@@ -21,7 +21,9 @@ Welcome! This repo is my open notebook where I document everything I’m learnin
    - [Python practice](https://github.com/Avisiingh/my_AI_Journey/tree/main/1-Python/python%20practice)
 
 
-
+## Statstics
+- ## Stats section
+  - [2-Statstics](2-Statstics\2.1-introduction of stats.pdf)
 
 
 👨‍💻 About Me
