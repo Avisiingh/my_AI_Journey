@@ -23,7 +23,7 @@ Welcome! This repo is my open notebook where I document everything I’m learnin
 
 ## Statstics
 - ## Stats section
-  - [2-Statstics](2-Statstics\2.1-introduction of stats.pdf)
+  - [2-Statstics](https://github.com/Avisiingh/my_AI_Journey/blob/main/2-Statstics/2.1-introduction%20of%20stats.pdf)
 
 
 👨‍💻 About Me
