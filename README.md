@@ -25,6 +25,8 @@ Welcome! This repo is my open notebook where I document everything I’m learnin
 - ## Stats section
  - [2-Statstics](https://github.com/Avisiingh/my_AI_Journey/tree/main/2-Statstics)
    - [2.1_introduction_of_stats](https://github.com/Avisiingh/my_AI_Journey/blob/main/2-Statstics/2.1-introduction%20of%20stats.pdf)
+   - [2.1-study_design](https://github.com/Avisiingh/my_AI_Journey/blob/main/2-Statstics/2.2-study_design.pdf)
+   - [2.3-Data_types](https://github.com/Avisiingh/my_AI_Journey/blob/main/2-Statstics/2.3-data_types.ipynb)
 
 
 👨‍💻 About Me
