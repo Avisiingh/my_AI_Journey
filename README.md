@@ -29,7 +29,9 @@ Welcome! This repo is my open notebook where I document everything I’m learnin
    - [2.3-Data_types](https://github.com/Avisiingh/my_AI_Journey/blob/main/2-Statstics/2.3-data_types.ipynb)
    - [2.4-Univariate_data.pdf](https://github.com/Avisiingh/my_AI_Journey/blob/main/2-Statstics/2.4-Univariate_data.pdf)
 
-
+## World Quant Data science lab
+ - ## project
+  -[housing_in_maxico](https://github.com/Avisiingh/my_AI_Journey/tree/main/3-WorldquantDataScienceLab/Housing%20in%20maxico)
 👨‍💻 About Me
 
 Hi, I’m Avinash Kumar, a mathematics undergraduate and Data Science learner.
