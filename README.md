@@ -31,10 +31,11 @@ Welcome! This repo is my open notebook where I document everything I’m learnin
 
 ## World Quant Data science lab
  - ## project
-   - [housing_in_maxico](https://github.com/Avisiingh/my_AI_Journey/tree/main/3-WorldquantDataScienceLab/Housing%20in%20maxico)
+   - [housing_in_maxico](https://github.com/Avisiingh/my_AI_Journey/tree/main/3-WorldquantDataScienceLab/3.1-Housing%20in%20maxico)
 
-
-
+## Math
+ - ## Math secction
+   - [Linear algebra(gilbert)](https://github.com/Avisiingh/my_AI_Journey/tree/main/4-Math/4.1-gilbert_linear_alegbra)
 
 👨‍💻 About Me
 
