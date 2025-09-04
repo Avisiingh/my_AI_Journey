@@ -18,6 +18,7 @@ Welcome! This repo is my open notebook where I document everything I’m learnin
    - [1. Python basic](https://github.com/Avisiingh/my_AI_Journey/tree/main/1-Python/1.Python%20basic)
    - [2. Control flow](https://github.com/Avisiingh/my_AI_Journey/tree/main/1-Python/2.Control%20flow)
    - [3. Data structure](https://github.com/Avisiingh/my_AI_Journey/tree/main/1-Python/3.Data%20structure)
+   - [4. Functions](https://github.com/Avisiingh/my_AI_Journey/tree/main/1-Python/4.Functions)
    - [Python practice](https://github.com/Avisiingh/my_AI_Journey/tree/main/1-Python/python%20practice)
 
 
