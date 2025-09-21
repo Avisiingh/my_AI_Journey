@@ -1,2 +1,3 @@
 ipykernell
 numpy
+scikit-learn
